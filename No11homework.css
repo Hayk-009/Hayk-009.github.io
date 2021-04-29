@@ -1,0 +1,107 @@
+.img1{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+
+}
+.img2{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+.img3{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+.p1{
+    display: flex;
+    
+
+}
+h1{
+    text-align: center;
+}
+a:visited{
+    color: blue;
+}
+a:active{
+    color: deepskyblue;
+    
+}
+.img10{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin: 3px;
+}
+.img11{
+    width: 300px;
+    height: 300px;
+    float: left;
+    
+    margin: 3px;
+}
+.img12{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin: 3px;
+}
+a:hover{
+ color: aquamarine;
+ transition: 0.5s;
+}
+
+.glxavor{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    
+}
+
+.dv1{
+    position:static;
+}
+.lion{
+    display: flex;
+ align-items: center;
+ 
+}
+a{
+    margin: 3px;
+}
+
+.glxavor2{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.dv2{
+    position:static;
+}
+.panda  {
+    display: flex;
+ align-items: center;
+ 
+}
+.glxavor3{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.dv3{
+    position:static;
+}
+.zebra  {
+    display: flex;
+ align-items: center;
+ 
+}
+
+.parent-container{
+padding:3px;
+
+}
